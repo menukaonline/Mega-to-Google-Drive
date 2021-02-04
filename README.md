@@ -1,6 +1,10 @@
-# Mega-to-Google-Drive
-This is a Google Colab notebook to transfer files from Mega to Google Drive
-<br><br><b>Usage:</b>
-<br>
-<a href="https://colab.research.google.com/github/cheems/Mega-to-Google-Drive/blob/master/Transfer_files_from_Mega_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-1. Click on the "Open in Colab" button and press ctrl+f9
+# Mega To Google Drive	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg "Open In Colab")](https://colab.research.google.com/github/cheems/Mega-to-Google-Drive/blob/master/Transfer_files_from_Mega_to_Google_Drive.ipynb "Open In Colab")
+
+A Google Colab Notebook That Helps To Transfer Files From [Mega](https://mega.nz "Mega") to [Google Drive](https://drive.google.com "Google Drive").
+
+#### How To Use
+- Click On The **Open in Colab** Badge
+- Follow The Instructions Written In The Notebook
+
+##### Pro Tip 💡
+- If You Have Very Large Amount Of Data, It Is Recommended To Use Your Own Cloud VPS Instead Of Google Colab.
